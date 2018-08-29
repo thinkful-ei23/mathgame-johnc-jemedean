@@ -1,0 +1,24 @@
+[
+    {
+        "question": "10 + 10",
+        "answer": 20
+    },
+    {
+        "question": "10 -10",
+        "answer": 0
+    },
+    {
+        "question": "15 + 3",
+        "answer": 18
+    },
+    {
+        "question": "20 - 10",
+        "answer": 10
+    },
+    {
+        "question": "2587 * 23.7",
+        "answer": 61311.9
+    }
+
+
+]
